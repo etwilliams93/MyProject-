@@ -1,5 +1,4 @@
-# MyProject-
-Repository Created for CYB 333 project - NU
+# MyProject- Repository Created for CYB 333 project - NU
 ## automation.py
 import os
 from shutil import move
